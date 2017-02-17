@@ -1,0 +1,92 @@
+.bg-cover { background-color: #000; }
+.btn-read-more {
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+}
+.main-text { font-family: 'Roboto', sans-serif;  }
+.main-text, .sub-text1, .sub-text2 { color: #fff; }
+.sub-text1, .sub-text2 { font-size: 18px; font-family: 'Open Sans', sans-serif; }
+.pwdo-cards-bg { background-color: #046168; }
+.pwdo-cards-title { 
+	font-family: 'Oswald', sans-serif;
+	color: #f8c536; 
+}
+.pwdo-cards-text1 {
+	font-weight: bold;
+	font-size: 17px;
+	/*background-color: #efefef;
+	padding: 1px 2px 1px 2px;*/
+}
+/*.pwdo-cards-text1:hover {
+	background-color: #f8c536;
+	padding: 1px 4px 1px 4px;
+}*/
+.pwdo-cards-text1-link {
+	font-weight: bold;
+	color: #f8c536;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+}
+.pwdo-cards-text1-link:hover {
+	color: #c3323f; 
+	text-decoration: none; 
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+}
+.partnerships-text { color: #006269; font-family: 'Roboto', sans-serif; }
+.partnerships { background-color: #fff; }
+.btn-go-back {
+	font-size: 15px;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+}
+a { 
+	color: #006269; 
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+}
+a:hover { 
+	color: #c3323f; 
+	text-decoration: none; 
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+}
+.darren-link { 
+	color: #006269; 
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	background-color: #efefef;
+	border-radius: 25px;
+	padding: 7px;
+}
+.darren-link:hover { 
+	color: #f8c536; 
+	text-decoration: none; 
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	background-color: #000;
+	border-radius: 25px;
+	padding: 7px;
+}
+footer { 
+	background-color: #c3323f;
+	padding: 10px;
+	color: #fff;
+}
+.footer-text { font-family: 'Open Sans', sans-serif; }
